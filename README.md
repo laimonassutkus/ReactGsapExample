@@ -1,6 +1,6 @@
 # Simple React app with GSAP animations module
 
-#### The whole idea is this:
+Using GSAP is as simple as:
 
 ```javascript
   // Create a reference object that will be used for an html (usually a div element). 
